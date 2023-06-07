@@ -1,27 +1,7 @@
 <h1 align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Santosh's+Profile" alt="Typing SVG" /></a>
 </h1>
-<style>
-  .animated-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-</style>
-<svg class="animated-background" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 800" preserveAspectRatio="none">
-  <g fill="#ffffff">
-    <circle cx="120" cy="300" r="30">
-      <animate attributeName="cx" dur="6s" repeatCount="indefinite" values="120; 620; 120" />
-    </circle>
-    <circle cx="420" cy="400" r="20">
-      <animate attributeName="cx" dur="4s" repeatCount="indefinite" values="420; 920; 420" />
-    </circle>
-   
-  </g>
-</svg>
+
 ### Skills
 
 <p align="left">
