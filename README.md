@@ -1,6 +1,14 @@
 <h1 align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Santosh's+Profile" alt="Typing SVG" /></a>
 </h1>
+![Banner](./images/banner.png)
+
+## Hi there! 👋
+I'm Santosh, a passionate developer with expertise in JavaScript and React. I love creating innovative web applications that solve real-world problems.
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshbaniya&show_icons=true&count_private=true&hide_border=true)
+
 
 ### Skills
 
